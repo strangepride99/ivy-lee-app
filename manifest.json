@@ -1,0 +1,24 @@
+{
+  "name": "Ivy Lee — Daily Planner",
+  "short_name": "Ivy Lee",
+  "description": "The Ivy Lee Method daily task manager with Pomodoro timer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#7D9B76",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
